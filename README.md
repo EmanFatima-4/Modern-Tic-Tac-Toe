@@ -44,7 +44,7 @@ git clone https://github.com/EmanFatima-4/Modern-Tic-Tac-Toe
 
 ## Live Demo
 
-Deploy easily using Vercel or GitHub Pages.
+https://eman-tic-tac-toe-game.vercel.app/
 
 ## Author
 
